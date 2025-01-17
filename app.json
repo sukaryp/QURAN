@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "تطبيق القرآن الكريم",
+    "slug": "quran-app",
+    "android": {
+      "package": "com.blalheshamabs.quranapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.blalheshamabs.quranapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cca247dc-13e8-4c9d-be6b-4d5f973674a9"
+      }
+    }
+  }
+}
